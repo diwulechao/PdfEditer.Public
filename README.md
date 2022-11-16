@@ -1,6 +1,6 @@
 # PdfEditer.Public
 Summary
-1. First the matching text and replace with new text.
+1. Find the matching text and replace with new text.
 2. Align the new text with the old one. Most online pdf editer tools will not get the perpect alignment. You will have to play with the rec code a little to get the perfect alignment.
 3. Merge all the pdf files's first page into one single pdf file.
 
