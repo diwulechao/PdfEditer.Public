@@ -1,6 +1,6 @@
 # PdfEditer.Public
 Summary
-1. Find the matching text and replace with new text.
+1. Find the matching text and replace it with the new text.
 2. Align the new text with the old one. Most online pdf editer tools will not get the perpect alignment. You will have to play with the rec code a little to get the perfect alignment.
 3. Merge all the pdf files's first page into one single pdf file.
 
@@ -13,6 +13,6 @@ I can use whatever font, size and color I want to match the old text. And with
    rec.Height *= 1.5f;
 ```
 You can move and adjust the text window to get the perfect alignment.
-This code is just a demo. You need to have some basic coding skill to be alter this tool to fit your requirements.
+This code is just a demo. You need to have some basic coding skill to be able to alter this tool to fit your requirements.
 
 Big thanks to Spire.PDF nuget package to make this possible.
